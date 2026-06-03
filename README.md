@@ -1,5 +1,7 @@
 # 의상 디자이너 자기소개 사이트
 
+**라이브 사이트:** https://rainy-gittech.github.io/
+
 `자기소개서.md` 내용을 바탕으로 한 Dark Fluid 스타일 정적 페이지입니다. HTML, CSS, JavaScript만 사용합니다.
 
 ## 로컬에서 보기
